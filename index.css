@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: rgb(103, 196, 212);
+  
+}
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(199, 222, 226);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.choice-image {
+  height: 75px;
+}
+.choice-reset {
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: rgb(167, 147, 224);
+  
+}
+
+ button:hover{
+  transform: scale(1.1);
+} 
